@@ -9,11 +9,10 @@ import java.io.PrintWriter;
 @WebServlet(name = "TestServlet", urlPatterns = {"/TestServlet"})
 public class TestServlet extends HttpServlet {
 
-
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
      * methods.
-     *
+     * OK 号了
      * @param request  servlet request
      * @param response servlet response
      * @throws ServletException if a servlet-specific error occurs
