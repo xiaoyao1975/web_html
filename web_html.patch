@@ -1,0 +1,119 @@
+Index: IDEA/web/test5.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- IDEA/web/test5.html	(date 1621677707427)
++++ IDEA/web/test5.html	(date 1621677707427)
+@@ -0,0 +1,15 @@
++<!DOCTYPE html>
++<html lang="en">
++<link
++
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++
++</head>
++<body>
++   <div></div>
++    <div>  hello   </div>
++    <div></div>
++</body>
++</html>
+\ No newline at end of file
+Index: web_test/src/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web_test/src/index.html	(date 1621690591299)
++++ web_test/src/index.html	(date 1621690591299)
+@@ -0,0 +1,14 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++</head>
++<body>
++
++<div>
++    hello web html!!!
++</div>
++
++</body>
++</html>
+\ No newline at end of file
+Index: hello word/src/com/example/helloworld/HelloWorld.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- hello word/src/com/example/helloworld/HelloWorld.java	(date 1621690074349)
++++ hello word/src/com/example/helloworld/HelloWorld.java	(date 1621690074349)
+@@ -0,0 +1,11 @@
++package com.example.helloworld;
++import java.lang.System;
++public class HelloWorld {
++    public static void main(String[] args) {
++        String test_string="hello";
++        System.out.println("hello World");
++        System.out.println("hello World");
++        System.out.println(test_string);
++    }
++
++}
+Index: IDEA/web/man.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- IDEA/web/man.css	(date 1621677383000)
++++ IDEA/web/man.css	(date 1621677383000)
+@@ -0,0 +1,6 @@
++
++
++body{
++    background:green;
++
++}
+\ No newline at end of file
+Index: intellij student/src/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- intellij student/src/index.html	(date 1621677732491)
++++ intellij student/src/index.html	(date 1621677732491)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++</head>
++<body>
++ hello Intellij Idea
++</body>
++</html>
+\ No newline at end of file
+Index: test1/src/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test1/src/index.html	(date 1621678553666)
++++ test1/src/index.html	(date 1621678553666)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++</head>
++<body>
++
++</body>
++</html>
+\ No newline at end of file
