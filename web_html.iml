@@ -21,17 +21,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Mojarra-2.4.0" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/web/WEB-INF/lib" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" exported="" name="Mojarra-2.4.0" level="project" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
@@ -39,6 +29,80 @@
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/bcprov-jdk16-1.46.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-codec-1.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-httpclient-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/fastjson-1.2.59.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-cli-1.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-codec-1.15-tests.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-codec-1.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-1.1.3-tests.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-adapters-1.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-api-1.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-tests.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpclient5-5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpclient5-cache-5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpclient5-fluent-5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpclient5-testing-5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpclient5-win-5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpcore5-5.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpcore5-h2-5.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpcore5-reactive-5.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/httpcore5-testing-5.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/jna-5.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/jna-platform-5.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/reactive-streams-1.0.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/rxjava-2.2.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/slf4j-api-1.7.25.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-codec-1.15-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-1.1.3-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-codec-1.15-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-codec-1.15-test-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-1.1.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/commons-logging-1.1.3-test-sources.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
   </component>
